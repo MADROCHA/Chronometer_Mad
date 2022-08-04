@@ -616,7 +616,7 @@ video {
   }
 
   70% {
-    transform: rotate(-76.0deg);
+    transform: rotate(-72.0deg);
   }
 
   80% {
@@ -674,7 +674,7 @@ video {
   }
 
   70% {
-    transform: rotate(-76.0deg);
+    transform: rotate(-72.0deg);
   }
 
   80% {
@@ -713,12 +713,6 @@ video {
 
 .gap-10 {
   gap: 2.5rem;
-}
-
-.space-x-10 > :not([hidden]) ~ :not([hidden]) {
-  --tw-space-x-reverse: 0;
-  margin-right: calc(2.5rem * var(--tw-space-x-reverse));
-  margin-left: calc(2.5rem * calc(1 - var(--tw-space-x-reverse)));
 }
 
 .border {
@@ -827,18 +821,62 @@ video {
 }
 
 @media (min-width: 640px) {
+  .sm\:w-0 {
+    width: 0px;
+  }
+
+  .sm\:w-52 {
+    width: 13rem;
+  }
+
+  .sm\:w-auto {
+    width: auto;
+  }
+
+  .sm\:w-80 {
+    width: 20rem;
+  }
+
+  .sm\:w-max {
+    width: -webkit-max-content;
+    width: -moz-max-content;
+    width: max-content;
+  }
+
+  .sm\:w-\[\] {
+    width: ;
+  }
+
+  .sm\:w-\[900px\] {
+    width: 900px;
+  }
+
+  .sm\:w-\[1200px\] {
+    width: 1200px;
+  }
+
+  .sm\:w-\[100px\] {
+    width: 100px;
+  }
+
   .sm\:flex-row {
     flex-direction: row;
+  }
+
+  .sm\:justify-center {
+    justify-content: center;
   }
 
   .sm\:gap-20 {
     gap: 5rem;
   }
 
-  .sm\:space-x-20 > :not([hidden]) ~ :not([hidden]) {
-    --tw-space-x-reverse: 0;
-    margin-right: calc(5rem * var(--tw-space-x-reverse));
-    margin-left: calc(5rem * calc(1 - var(--tw-space-x-reverse)));
+  .sm\:gap-10 {
+    gap: 2.5rem;
+  }
+
+  .sm\:gap-0 {
+    gap: 0px;
   }
 
   .sm\:px-6 {
@@ -858,5 +896,63 @@ video {
 
   .sm\:text-\[36px\] {
     font-size: 36px;
+  }
+}
+
+@media (min-width: 768px) {
+  .md\:w-\[\] {
+    width: ;
+  }
+
+  .md\:w-\[900\] {
+    width: 900;
+  }
+
+  .md\:w-\[900px\] {
+    width: 900px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .lg\:w-\[900px\] {
+    width: 900px;
+  }
+
+  .lg\:w-\[800px\] {
+    width: 800px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .xl\:w-\[800px\] {
+    width: 800px;
+  }
+
+  .xl\:w-\[1200px\] {
+    width: 1200px;
+  }
+
+  .xl\:w-\[1500px\] {
+    width: 1500px;
+  }
+
+  .xl\:w-\[1800px\] {
+    width: 1800px;
+  }
+
+  .xl\:w-\[1700px\] {
+    width: 1700px;
+  }
+
+  .xl\:w-\[1600px\] {
+    width: 1600px;
+  }
+
+  .xl\:w-\[1400px\] {
+    width: 1400px;
+  }
+
+  .xl\:w-\[1300px\] {
+    width: 1300px;
   }
 }
