@@ -49,6 +49,9 @@ finally, use terminal and run the command.
 
 https://user-images.githubusercontent.com/100350587/182851386-64819bc0-78c8-4e79-ba9c-89c9d74574b5.mp4
 
+## Deploy
+you can see the project result through this -> https://chronometer-mad.vercel.app/
+
 
 
 
