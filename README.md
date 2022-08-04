@@ -39,8 +39,8 @@ notice you'll need `NodeJs` to run the roject, also would recommend `LiveServer`
 To clone this repository use 
 `$ git clone`
 
-then leave a space after this to add the following repository link
-`$ https://github.com/MADROCHA/Chronometer_Mad.git` 
+leave a space after this to add the following repository link
+ `$ https://github.com/MADROCHA/Chronometer_Mad.git` 
 
 finally, use terminal and run the command.
 
