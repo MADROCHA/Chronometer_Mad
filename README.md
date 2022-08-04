@@ -1,4 +1,5 @@
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/100350587/182817515-8e22ebf8-aab6-44d3-9637-13322cdbd52f.gif)
+![chrono_timerGif](https://user-images.githubusercontent.com/100350587/182852359-afd4abb7-248c-4d46-ba0b-57ab4c6e761c.gif)
+
 # Chronometer_Mad
 
 ## Description
@@ -46,8 +47,10 @@ finally, use terminal and run the command.
 
 ## Project Media
 
+https://user-images.githubusercontent.com/100350587/182851386-64819bc0-78c8-4e79-ba9c-89c9d74574b5.mp4
 
-https://user-images.githubusercontent.com/100350587/182739399-10e936c6-7f6e-4429-ad7f-5a296c58160d.mp4
+
+
 
 ## Developers
 - [Miguel Angel Dominguez de la Rocha](https://github.com/MADROCHA)
